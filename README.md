@@ -1,0 +1,1 @@
+This is a set of Power BI reports that can be used for inventorying ARC enabled SQL Servers and databases.   The datasouce for this report is based on KQL queries against Azure Resource Graph.   To install, just download the PBIX file and connect to your PowerBI instance.
